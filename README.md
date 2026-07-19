@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rizwan Umar</h1>
 
-<!--
-**rizwanumar918-dev/rizwanumar918-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Full Stack Developer | MERN Stack Developer | React Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building modern, responsive, and scalable web applications with clean code and great user experiences.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Full Stack Developer
+- ⚛️ React.js Enthusiast
+- 🌱 Currently learning Advanced MERN Stack
+- 🎯 Passionate about modern UI/UX
+- 🚀 Always learning new technologies
+
+---
+
+## 💻 Tech Stack
+
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Vite
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- MongoDB
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📈 Current Focus
+
+- Building Production-Ready MERN Applications
+- Writing Clean & Maintainable Code
+- Learning Advanced Backend Development
+- Creating Modern User Experiences
+
+---
+
+## 📫 Connect
+
+GitHub: https://github.com/rizwanumar918-dev
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
