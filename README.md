@@ -13,6 +13,10 @@ Building modern, responsive, and scalable web applications with clean code and e
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rizwanumar918-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,vite,npm" alt="Tech Stack" />
 </p>
 
@@ -22,8 +26,8 @@ Building modern, responsive, and scalable web applications with clean code and e
 
 - 💻 Full Stack Developer
 - ⚛️ MERN Stack Developer
-- 🌱 Currently learning Advanced MERN Stack
-- 🎯 Passionate about Modern UI/UX
+- 🌱 Currently learning **Advanced MERN Stack**
+- 🎯 Passionate about **Modern UI/UX**
 - 🚀 Always learning new technologies
 
 ---
@@ -31,8 +35,8 @@ Building modern, responsive, and scalable web applications with clean code and e
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rizwanumar918-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanumar918-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rizwanumar918-dev&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanumar918-dev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -40,7 +44,7 @@ Building modern, responsive, and scalable web applications with clean code and e
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rizwanumar918-dev&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rizwanumar918-dev&theme=tokyonight" />
 </p>
 
 ---
@@ -48,28 +52,28 @@ Building modern, responsive, and scalable web applications with clean code and e
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rizwanumar918-dev&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rizwanumar918-dev&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
 
 ## 💻 Tech Stack
 
-### Frontend
+### 🌐 Frontend
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (ES6+)
 - React.js
 - Vite
 
-### Backend
+### ⚙️ Backend
 - Node.js
 - Express.js
 
-### Database
+### 🗄️ Database
 - MongoDB
 
-### Tools
+### 🛠️ Tools
 - Git
 - GitHub
 - VS Code
@@ -91,19 +95,33 @@ Building modern, responsive, and scalable web applications with clean code and e
 - 🏡 Real Estate Website *(Coming Soon)*
 - 💼 Portfolio Website *(Coming Soon)*
 - 🛒 E-Commerce Website *(Coming Soon)*
+- 📋 Task Management App *(Coming Soon)*
+- 💬 Chat Application *(Coming Soon)*
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/rizwanumar918-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 
-  <a href="mailto:rizwanumar918@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://github.com/rizwanumar918-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:rizwanumar918@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<!-- Replace # with your LinkedIn URL -->
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<!-- Replace # with your Portfolio URL -->
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
 ---
